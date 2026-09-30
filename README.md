@@ -43,8 +43,7 @@ This is an educational project that covers the full cycle of an applied computer
 
 ```text
 .
-├── Deeplearning_simple.ipynb   # main notebook (stages 0–9)
-├── requirements.txt            # dependencies for local runs (optional)
+├── Gender-Young-Classification.ipynb   # main notebook (stages 0–9)
 └── README.md
 ```
 
