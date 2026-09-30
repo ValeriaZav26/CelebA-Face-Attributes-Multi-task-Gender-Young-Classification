@@ -108,10 +108,3 @@ pip install tensorflow numpy pandas matplotlib scikit-learn tqdm
 ```
 
 ---
-
-## 🔮 Future Improvements
-
-* **Backbone Upgrade:** Transition from standard architectures to modern state-of-the-art backbones like EfficientNetV2 or ConvNeXt for higher feature fidelity.
-* **Data Augmentation:** Implement advanced spatial and color augmentations using `Albumentations` to enhance model robustness against real-world lighting and pose variations.
-* **Test-Time Augmentation (TTA):** Apply multi-crop and flip evaluations during inference to boost predictive stability.
-* **Fairness & Bias Audit:** Leverage auxiliary attributes (`Eyeglasses`, `Wearing_Hat`, `Smiling`) to audit subgroup performance and mitigate demographic biases.
